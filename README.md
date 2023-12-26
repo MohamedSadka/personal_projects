@@ -41,7 +41,7 @@ Mohamed Ramadan is a talented developer passionate about creating innovative web
 ## Connect with Mohamed Ramadan
 
 Connect with Mohamed Ramadan on:
-- [LinkedIn](#)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-ramadan-579a26240/)
 - [YouTube](#)
 - [Twitter](#)
 - [Instagram](#)
