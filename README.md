@@ -9,12 +9,10 @@ Mohamed Ramadan is a talented developer passionate about creating innovative web
 ## Projects
 
 ### Quran Tab - Chrome Extension
-- **Description:** Quran Tab is a Chrome Extension developed by Mohamed Ramadan.
 - **Tech Stack:** HTML, CSS, JavaScript, React.
 - **Link:** [Quran Tab Chrome Extension](https://microsoftedge.microsoft.com/addons/detail/quran-tab/hnfepfakgcalolgicjdfmaaellnondji)
 
 ### Quran Station - Chrome Extension
-- **Description:** Quran Station is another Chrome Extension developed by Mohamed Ramadan.
 - **Tech Stack:** HTML, CSS, JavaScript, API.
 - **Link:** [Quran Station Chrome Extension](https://chromewebstore.google.com/detail/quran-station/angdimijeelplemmdnedhnjidadfphom)
 
